@@ -17,6 +17,7 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
  
 
 ## Logic Diagram
+logic diagram is used in their method
 ## Procedure
 ## Program:
 /*
