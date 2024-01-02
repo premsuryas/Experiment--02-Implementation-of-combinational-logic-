@@ -21,6 +21,7 @@ logic diagram is used in their method
 ## Procedure
 ## Program:
 /*
+```
 module cs(a,b,c,d,w,x,y,z,f1,f2);
 input a,b,c,d,w,x,y,z;
 output f1,f2;
@@ -38,9 +39,14 @@ assign b4=(w&(~x)&y);
 assign b5=(w&y&z);
 assign f2=b1|b2|b3|b4|b5;
 endmodule
+
+```
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
+```
 Developed by: PREM KUMAR
-RegisterNumber: 23013598 
+RegisterNumber: 23013598
+
+```
 */
 ## RTL realization
 
